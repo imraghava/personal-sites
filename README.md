@@ -411,6 +411,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Preston Mueller http://prestonmueller.com
 - Qile Wang http://aroundthelines.com/
 - Quim Llimona http://lemonzi.me
+- Raghava Sharma http://raghava.net/
 - Raja Sekar http://rajasekarm.com
 - Raghav Dua http://raghavdua.com
 - Raghav Sood http://raghavsood.com
