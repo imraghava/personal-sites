@@ -412,6 +412,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Qile Wang http://aroundthelines.com/
 - Quim Llimona http://lemonzi.me
 - Raja Sekar http://rajasekarm.com
+- Raghava Sharma http://raghava.net/
 - Raghav Dua http://raghavdua.com
 - Raghav Sood http://raghavsood.com
 - Rajat Mehndiratta http://rajatmehndiratta.me
