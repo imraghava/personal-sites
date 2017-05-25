@@ -631,7 +631,7 @@ Hackathon Hackers' GitHub profiles
 - Rafa Moreno https://github.com/ralphie9224
 - Rafael Khan https://github.com/rafkhan
 - Rafayel Mkrtchyan https://github.com/MicBrain
-  Raghava Sharma https://github.com/imraghava
+- Raghava Sharma https://github.com/imraghava
 - Raghav Dua https://github.com/duaraghav8
 - Raghav Sood https://github.com/RaghavSood
 - Rahul Chaudhary https://github.com/rahulch95
